@@ -10,7 +10,7 @@ arbirali/arbirali is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Rahat Ali</h1>
-<h3 align="center">A frontend developer who loves to take the static designs and bring into reality with deep understanding of User Experience.</h3>
+<h3 align="center">I am a frontend developer who loves to take static designs and bring them into reality with a deep understanding of User Experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arbirali&label=Profile%20views&color=0e75b6&style=flat" alt="arbirali" /> </p>
 
