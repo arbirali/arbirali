@@ -10,7 +10,7 @@ arbirali/arbirali is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Rahat Ali</h1>
-<h3 align="center">I am a frontend developer who loves to take static designs and bring them into browser reality with a deep understanding of User Experience.</h3>
+<h3 align="center">I am a senior frontend react developer who loves to take static designs and bring them into browser reality with a deep understanding of User Experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arbirali&label=Profile%20views&color=0e75b6&style=flat" alt="arbirali" /> </p>
 
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on React application of an E-learing platform based on OpenEdx. [Gen Plus](https://learn.genplus.co.uk/)
 
-- 🤝 I’m trying to help people for OpenEdx themes and Front end development and issues. [Open Edx](https://openedx.org/)
+- 🤝 I’m trying to help people with OpenEdx themes and Front end development and issues. [Open Edx](https://openedx.org/)
 
 - 💬 Ask me about **React, ES6+, CSS, SCSS, HTML5, Frontend Development**
 
